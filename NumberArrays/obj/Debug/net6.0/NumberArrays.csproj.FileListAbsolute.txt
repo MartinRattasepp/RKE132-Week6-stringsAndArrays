@@ -1,0 +1,14 @@
+C:\Users\matum\source\repos\Week6StringsAndArrays\NumberArrays\obj\Debug\net6.0\NumberArrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matum\source\repos\Week6StringsAndArrays\NumberArrays\obj\Debug\net6.0\NumberArrays.AssemblyInfoInputs.cache
+C:\Users\matum\source\repos\Week6StringsAndArrays\NumberArrays\obj\Debug\net6.0\NumberArrays.AssemblyInfo.cs
+C:\Users\matum\source\repos\Week6StringsAndArrays\NumberArrays\obj\Debug\net6.0\NumberArrays.csproj.CoreCompileInputs.cache
+C:\Users\matum\source\repos\Week6StringsAndArrays\NumberArrays\bin\Debug\net6.0\NumberArrays.exe
+C:\Users\matum\source\repos\Week6StringsAndArrays\NumberArrays\bin\Debug\net6.0\NumberArrays.deps.json
+C:\Users\matum\source\repos\Week6StringsAndArrays\NumberArrays\bin\Debug\net6.0\NumberArrays.runtimeconfig.json
+C:\Users\matum\source\repos\Week6StringsAndArrays\NumberArrays\bin\Debug\net6.0\NumberArrays.dll
+C:\Users\matum\source\repos\Week6StringsAndArrays\NumberArrays\bin\Debug\net6.0\NumberArrays.pdb
+C:\Users\matum\source\repos\Week6StringsAndArrays\NumberArrays\obj\Debug\net6.0\NumberArrays.dll
+C:\Users\matum\source\repos\Week6StringsAndArrays\NumberArrays\obj\Debug\net6.0\refint\NumberArrays.dll
+C:\Users\matum\source\repos\Week6StringsAndArrays\NumberArrays\obj\Debug\net6.0\NumberArrays.pdb
+C:\Users\matum\source\repos\Week6StringsAndArrays\NumberArrays\obj\Debug\net6.0\NumberArrays.genruntimeconfig.cache
+C:\Users\matum\source\repos\Week6StringsAndArrays\NumberArrays\obj\Debug\net6.0\ref\NumberArrays.dll
